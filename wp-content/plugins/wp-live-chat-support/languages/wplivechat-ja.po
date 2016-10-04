@@ -1,0 +1,3007 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wplivechat\n"
+"POT-Creation-Date: 2016-09-02 05:04+0200\n"
+"PO-Revision-Date: 2016-09-08 17:50+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: Margy Mutoh <wp-translate@shake-hands.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+"X-Poedit-SearchPath-0: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support\n"
+"X-Poedit-SearchPath-1: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-pro\n"
+"X-Poedit-SearchPath-2: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-cloud-server\n"
+"X-Poedit-SearchPath-3: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-mobile-and-desktop-app\n"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:54
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:347
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:369
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:98
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3938
+msgid "Cloud Server"
+msgstr "クラウド・サーバー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:68
+msgid "Chat functionality has been paused."
+msgstr "チャット機能は停止中です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:69
+msgid ""
+"Please enter your verified API key in the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a> to activate the cloud "
+"based functionality."
+msgstr ""
+"クラウドベースの機能を有効化するには、<a href=\"admin.php?page=wplivechat-"
+"menu-api-keys-page\">API キーのページ</a> で 有効なAPI キーを入力してくださ"
+"い。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:350
+msgid ""
+"You are currently using our <strong>cloud server</strong> to handle your "
+"chat requests and live chat sessions.<br /><br />To disable this, please "
+"deactivate the WP Live Chat Support - Cloud Server plugin."
+msgstr ""
+"現在、チャット要求とチャットセッションの運用に<strong>クラウド・サーバー</"
+"strong>を使用中です。<br /><br />これを無効化するには、WP ライブチャットサ"
+"ポート(クラウド・サーバープラグイン)を無効化してください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:47
+msgid "Mobile and Desktop App"
+msgstr "モバイル＆デスクトップ App"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:99
+msgid "Mobile and Desktop App Settings"
+msgstr "モバイル＆デスクトップ App 設定"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:102
+msgid "Enable mobile and desktop app"
+msgstr "モバイル＆デスクトップ App を有効化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:124
+msgid "App"
+msgstr "アプリ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/ajax-pro.php:271
+msgid "Guest"
+msgstr "ゲスト"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/ajax-pro.php:343
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/ajax_new.php:272
+msgid "Admin has closed and ended the chat"
+msgstr "スタッフがチャットを終了しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/ajax-pro.php:378
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/ajax_new.php:296
+msgid "There is No Answer. Please Try Again Later"
+msgstr "応答がありません。後ほどやり直してください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:54
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:173
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:325
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:288
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:480
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2438
+msgid "IP Address not recorded"
+msgstr "IP アドレスは記録されていません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:56
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:175
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:327
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:290
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:482
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2440
+msgid "Whois for"
+msgstr "Whois を表示"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:61
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:333
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:295
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:437
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1352
+msgid "Accept Chat"
+msgstr "チャットを受ける"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:63
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:335
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:297
+msgid "Incoming Chat"
+msgstr "チャット要求"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:63
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:335
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:297
+msgid "You have an incoming chat."
+msgstr "チャット要求が来ています。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:67
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:442
+msgid "Open Chat"
+msgstr "チャットを開始"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:69
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:347
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:303
+msgid "Chat Active"
+msgstr "応答中のチャット"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:69
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:347
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:303
+msgid "This chat is active"
+msgstr "このチャットは応答中です"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:74
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:160
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2344
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1647
+msgid "Initiate Chat"
+msgstr "チャットを開始"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:76
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:162
+msgid "You must be a chat agent to initiate chats"
+msgstr "チャットを開始するには、スタッフ登録が必要です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:99
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:505
+msgid "New"
+msgstr "新規作成"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:101
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:507
+msgid "Returning"
+msgstr "再開した"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:143
+msgid "Visitors on site"
+msgstr "オンライン中のビジター"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:207
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:377
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:326
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2475
+msgid "Site Info"
+msgstr "サイト情報"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:209
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:379
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:328
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2477
+msgid "Chat initiated on:"
+msgstr "チャットを開始したページ: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:213
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:383
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:332
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2481
+msgid "Advanced Info"
+msgstr "詳細情報"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:215
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:385
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:334
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2483
+msgid "Browser:"
+msgstr "使用ブラウザー: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:216
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:386
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:335
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2484
+msgid "IP Address:"
+msgstr "IP アドレス:"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:259
+msgid "No visitors on-line at the moment"
+msgstr "現在オンライン中のビジターはありません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:302
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:271
+msgid "No chat sessions available at the moment"
+msgstr "現在、チャットセッションはありません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:304
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:273
+msgid "Active Chats"
+msgstr "応答中のチャット"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:339
+msgid "You must be a chat agent to answer chats"
+msgstr "チャットに応答するには、スタッフ登録が必要です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:345
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:301
+msgid "Open Chat Window"
+msgstr "チャットウィンドウを開く"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:349
+msgid "Chat has been answered by another agent"
+msgstr "他のスタッフが対応中"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:350
+msgid "Chat answered by another agent"
+msgstr "他のスタッフが対応済み"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:409
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1198
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "WPライブチャットサポート - オフラインメッセージ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:410
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:969
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:440
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1199
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1613
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:192
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:391
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:256
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1331
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1486
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3022
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3133
+msgid "Name"
+msgstr "ユーザー名"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:410
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:970
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1200
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1614
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:193
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:392
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1332
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1487
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3023
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3134
+msgid "Email"
+msgstr "メールアドレス"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:410
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:971
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1546
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1201
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1488
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3135
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4077
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4127
+msgid "Message"
+msgstr "メッセージ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:410
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1202
+msgid "Via WP Live Chat Support"
+msgstr "WPライブチャットサポートより"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:480
+msgid "Alert: Someone wants to chat with you on "
+msgstr "アラート: 以下のサイトからチャット要求"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:481
+msgid "Someone wants to chat with you on your website"
+msgstr "当サイト上でのチャット要求が来ています"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:481
+msgid "Log in"
+msgstr "ログイン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:748
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:764
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:779
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2720
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2736
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2751
+msgid "Chat Agent"
+msgstr "チャット対応スタッフ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:753
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:769
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2725
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2741
+msgid "Make this user a chat agent"
+msgstr "このユーザーをチャット対応スタッフにする"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:783
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2755
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr "チャット対応スタッフを登録する権限がありません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:784
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2756
+msgid "Please contact the administrator of this website to change this."
+msgstr "設定を変更するには、サイト管理者に連絡してください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:869
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3140
+msgid "Chat Agent Online"
+msgstr "オンラインのスタッフ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:871
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:876
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3142
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3147
+msgid "Chat Agents Online"
+msgstr "オンラインのスタッフ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:968
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1612
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3021
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3132
+msgid "Date"
+msgstr "日付"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:985
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3146
+msgid "You have not received any offline messages."
+msgstr "オフラインメッセージはありません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1410
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:788
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3495
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3720
+msgid "Administrator"
+msgstr "管理者"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1411
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:794
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3501
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3729
+msgid "Editor"
+msgstr "編集者"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1412
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:800
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3507
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3738
+msgid "Author"
+msgstr "投稿者"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1413
+msgid "Contributor"
+msgstr "寄稿者"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1414
+msgid "Subscriber"
+msgstr "購読者"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1544
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4075
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4125
+msgid "Chat ID"
+msgstr "チャットID"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1545
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4076
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4126
+msgid "From"
+msgstr "発話者"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1547
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4078
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4128
+msgid "Timestamp"
+msgstr "タイムスタンプ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1548
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4079
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4129
+msgid "Origin"
+msgstr "立場"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1560
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4084
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4134
+msgid "user"
+msgstr "ユーザー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:1562
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4086
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4136
+msgid "agent"
+msgstr "スタッフ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:48
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:26
+msgid "WP Live Chat Support Settings"
+msgstr "WP ライブチャットサポートの設定"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:71
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2099
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2114
+msgid "Dear Pro User"
+msgstr "Pro 版ユーザーのみなさま"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:72
+msgid ""
+"Please enter a valid API key on the 'Live Chat' -> 'Settings' page. Failing "
+"to do this will result in you no longer receiving updates for this plugin."
+msgstr ""
+"「WPライブチャットサポート」→「設定」のページで有効なAPIキーを入力してくださ"
+"い。APIキーが間違っていると、今後のアップデート通知が受け取れなくなります。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid "You can obtain a copy of your API key "
+msgstr "APIキーを確認できます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid "here"
+msgstr "ここから"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid ""
+"An account has been created for you while purchasing the plugin. If you have "
+"lost your password, please reset it "
+msgstr ""
+"プラグインの購入にあたり、あなたのアカウントが作成されました。パスワードを忘"
+"れてしまったときは、リセット後、再設定してください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:74
+msgid ""
+"If you feel you are getting this message in error, please try refreshing the "
+"page."
+msgstr ""
+"このメッセージがエラーによって表示されているようなら、ページを再読込してくだ"
+"さい。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:83
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:53
+msgid "General Settings"
+msgstr "メイン設定"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:84
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:58
+msgid "Chat Box"
+msgstr "チャットボックス"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:85
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:383
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:63
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:400
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:722
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:725
+msgid "Offline Messages"
+msgstr "オフラインメッセージ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:86
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:485
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:68
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:541
+msgid "Styling"
+msgstr "スタイル"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:87
+msgid "Chat Agents"
+msgstr "チャット対応スタッフ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:88
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:78
+msgid "Blocked Visitors"
+msgstr "ブロックしたビジター"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:89
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:830
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:836
+msgid "Chat Experience Ratings"
+msgstr "チャットの評価"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:90
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1852
+msgid "Encryption"
+msgstr "暗号化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:93
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:91
+msgid "Main Settings"
+msgstr "メイン設定"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:96
+msgid "Find out more."
+msgstr "もっと詳しく..."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:103
+msgid "Use our server to host your chat server."
+msgstr "WPライブチャットサポートのチャットサーバーを使用する"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:107
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3851
+msgid "API Key"
+msgstr "APIキー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:112
+msgid "This API key is "
+msgstr "このAPIキーは"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:115
+msgid "valid"
+msgstr "適正です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:118
+msgid "invalid"
+msgstr "不正です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:122
+msgid ""
+"A valid API key means that you will be able to get the latest version of the "
+"plugin as and when it is released, as well as get access to support should "
+"you require it."
+msgstr ""
+"APIキーが適正であれば、最新バージョンがリリースされた際に最新バージョンを受け"
+"取ることができます。また、サポートを受けるためにも必要です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:130
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:94
+msgid "Chat enabled"
+msgstr "チャットを有効にする"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:135
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1602
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:97
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2998
+msgid "Yes"
+msgstr "はい"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:138
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1602
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:98
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2998
+msgid "No"
+msgstr "いいえ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1688
+msgid "Choose when I want to be online"
+msgstr "オンライン状況をサイトに表示"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1688
+msgid ""
+"Checking this will allow you to change your status to Online or Offline on "
+"the Live Chat page."
+msgstr ""
+"このオプションをオン／オフすることで、ライブチャットにオンライン／オフライン"
+"の状況を表示します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:116
+msgid "Hide Chat"
+msgstr "「X」で閉じられたチャットボックスを非表示"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:116
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr ""
+"チャットボックス右上の「X」でチャットボックスを閉じたユーザーに対して、以降24"
+"時間チャットボックスを非表示にします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:125
+msgid "Require Name And Email"
+msgstr "チャット要求に名前とメールアドレスを必須とする"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:125
+msgid ""
+"Users will have to enter their Name and Email Address when starting a chat"
+msgstr ""
+"ビジターがチャットを要求する際、名前とメールアドレスを必須入力とします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:133
+msgid "Input Field Replacement Text"
+msgstr "名前／メールアドレスフィールドの代替テキスト"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:133
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr ""
+"名前／メールアドレスなしでチャットを要求できる場合、入力フィールドの代わりに"
+"表示するテキスト"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:141
+msgid "Use Logged In User Details"
+msgstr "ログインユーザーは登録情報を使用"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:141
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr "ユーザーがログインしている場合は、該当ユーザーの登録情報を参照します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:149
+msgid "Enable On Mobile Devices"
+msgstr "モバイルでも有効にする"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:149
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"モバイル機器でもチャットボックスを表示する場合はチェック (スマートフォンおよ"
+"びタブレット)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:157
+msgid "Record a visitor's IP Address"
+msgstr "ビジターの IP アドレスを記録"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:157
+msgid "Disable this to enable anonymity for your visitors"
+msgstr "ビジターの IP アドレスを記録しない場合はオフにします"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:165
+msgid "Play a sound when a new message is received"
+msgstr "新着チャットがあれば着信音を鳴らす"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:165
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr "無効にすると、新しいチャット要求が来たときに着信音が鳴りません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2130
+msgid "Include chat window on the following pages:"
+msgstr "チャットボックスを表示させるページ:"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2130
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:175
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+"チャットボックスを表示させるページを ID で指定します。(カンマ区切りで複数の"
+"ページを指定可)　空白で全ページに表示します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2138
+msgid "Exclude chat window on the following pages:"
+msgstr "チャットボックスを表示させないページ:"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2138
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:190
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"特定のページでチャットボックスを表示させたくない場合、ページIDで指定します。"
+"(カンマ区切りで複数のページを指定可)　空白で全ページに表示します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2146
+msgid "Allow any user to make themselves a chat agent"
+msgstr "誰でもチャット対応スタッフに登録可能"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2146
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+"オンにすると、投稿者権限にかかわらず、ユーザーは自分のプロフィール画面で自分"
+"をチャット対応スタッフにできます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:255
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:213
+msgid "Chat Window Settings"
+msgstr "チャットボックスの設定"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:258
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:216
+msgid "Chat box alignment"
+msgstr "チャットボックスの位置"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:263
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:219
+msgid "Bottom left"
+msgstr "下左"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:266
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:220
+msgid "Bottom right"
+msgstr "下右"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:269
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:221
+msgid "Left"
+msgstr "左"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:272
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:222
+msgid "Right"
+msgstr "右"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:228
+msgid "Auto Pop-up"
+msgstr "自動ポップアップ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:228
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr "チャットボックスを最初から開いた状態で表示します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:289
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:915
+msgid "Name "
+msgstr "名前"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:303
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:986
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:272
+msgid "Picture"
+msgstr "画像"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:311
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:994
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:275
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:291
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:313
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:996
+msgid "Remove Image"
+msgstr "画像を削除"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:314
+msgid "Recomended Size 40px x 40px"
+msgstr "推奨サイズ ＝40 x 40ピクセル(px)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:320
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1004
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:288
+msgid "Logo"
+msgstr "ロゴ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:328
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1012
+msgid "Upload Logo"
+msgstr "ロゴをアップロード"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:330
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1014
+msgid "Remove Logo"
+msgstr "ロゴを削除"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:331
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1015
+msgid "Recomended Size 250px x 40px"
+msgstr "推奨サイズ ＝250 x 40ピクセル(px)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1021
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:304
+msgid "Chat delay (seconds)"
+msgstr "チャット遅延時間(秒)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1021
+msgid "How long it takes for your chat window to pop up"
+msgstr "チャットウィンドウがポップアップするまでの遅延時間"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1030
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:320
+msgid "Chat notifications"
+msgstr "チャット通知"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1030
+msgid "Alert me via email as soon as someone wants to chat (while online only)"
+msgstr "チャット要求をすぐにメールで知らせる(オンライン時のみ有効)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:338
+msgid "Display name and avatar in chat"
+msgstr "チャット中に名前とアバターを表示"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:338
+msgid "Display the agent and user name above each message in the chat window."
+msgstr "チャット中、各発言に発言者名とアバターを表示します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:348
+msgid "Only show the chat window to users that are logged in"
+msgstr "ログインユーザーだけにチャットを表示"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:348
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr "ログインした登録ユーザーのみにチャットを許可する場合、オンにします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:404
+msgid "Do not allow users to send offline messages"
+msgstr "オフラインメッセージを受け取らない"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:404
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"オンラインのスタッフがいないときはチャットウィンドウを非表示にし、ユーザーが"
+"オフラインメッセージを送れないようにします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:416
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:416
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+"オフラインメッセージを受信するメールアドレスを記入します。カンマ区切りで複数"
+"のアドレスを指定できます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:412
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:428
+msgid "Sending Method"
+msgstr "送信方法"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:413
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:429
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:414
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:430
+msgid "PHP Mailer"
+msgstr "PHPメール"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:430
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:446
+msgid "Host"
+msgstr "ホスト"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:438
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:454
+msgid "Port"
+msgstr "ポート"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:446
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:462
+msgid "Username"
+msgstr "ユーザー名"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:454
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:470
+msgid "Password"
+msgstr "パスワード"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:463
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:479
+msgid "Offline Chat Box Title"
+msgstr "オフライン時チャットボックスの名称"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:471
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:487
+msgid "Offline Text Fields"
+msgstr "オフラインモードのテキスト\t"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:504
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:546
+msgid "Choose a theme"
+msgstr "テーマを選択"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:509
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:512
+msgid "Theme 1"
+msgstr "テーマ1"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:515
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:518
+msgid "Theme 2"
+msgstr "テーマ2"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:521
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:524
+msgid "Theme 3"
+msgstr "テーマ3"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:527
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:530
+msgid "Theme 4"
+msgstr "テーマ4"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:533
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:536
+msgid "Theme 5"
+msgstr "テーマ5"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:539
+msgid "Theme 6"
+msgstr "テーマ6"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:542
+msgid "Custom. Enter Colour Values Below"
+msgstr "カスタム(色の値を以下に記入)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:568
+msgid "Chat box fill color"
+msgstr "チャットボックスの背景色"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:574
+msgid "Chat box font color"
+msgstr "チャットボックスの前景色"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:581
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:677
+msgid "I'm using a localization plugin"
+msgstr "ローカライゼーションのためのプラグインを使用している場合はチェック"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:584
+msgid "documentation"
+msgstr "ドキュメンテーション"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:589
+msgid ""
+"You will only be able to edit the strings shown in the chat window of the "
+"code now. <br/> This has been done to accommodate as many localization "
+"plugins as possible. <br/> For more information on how to change these "
+"strings, please consult the "
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:594
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:685
+msgid "First Section Text"
+msgstr "オンライン時\tチャットボックスの名称"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:601
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:692
+msgid "Intro Text"
+msgstr "導入のテキスト"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:607
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:698
+msgid "Second Section Text"
+msgstr "次のテキスト"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:614
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:705
+msgid "Reactivate Chat Section Text"
+msgstr "チャット再起動中のテキスト"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:622
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:713
+msgid "User chat welcome"
+msgstr "チャット開始時、最初に表示する挨拶"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:628
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:719
+msgid "Other text"
+msgstr "他に表示するテキスト\t"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:630
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:721
+msgid "This text is shown above the user chat input field"
+msgstr "ユーザー入力フィールドの見出し"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:662
+msgid ""
+"You are using an outdated version of WP Live Chat Support Basic. Please "
+"update your plugin to allow for animations to function"
+msgstr ""
+"現在お使いのWPライブチャットサポート(ベーシック版)は旧バージョンです。アニ"
+"メーションを有効にするには最新版へアップデートしてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:666
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:749
+msgid "Choose an animation"
+msgstr "アニメーションを選択"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:674
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:757
+msgid "Slide Up"
+msgstr "スライドイン (下から上)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:680
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:763
+msgid "Slide From The Side"
+msgstr "スライドイン (サイドから)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:686
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:769
+msgid "Fade In"
+msgstr "その場でフェードイン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:692
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:775
+msgid "No Animation"
+msgstr "アニメーションしない"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:750
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3457
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3689
+msgid "Current Users that are Chat Agents"
+msgstr "スタッフのオンライン状況"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:761
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3468
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3699
+msgid "Online"
+msgstr "オンライン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:771
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3326
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3478
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2080
+msgid "Remove"
+msgstr "削除"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:780
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3487
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3749
+msgid "Add New Agent"
+msgstr "スタッフを追加"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:782
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:794
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3489
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2512
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3714
+msgid "Select"
+msgstr "選択"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:804
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3511
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3750
+msgid "Add Agent"
+msgstr "スタッフを追加"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:810
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3517
+msgid ""
+"Should you wish to add a user that has a role less than 'Author', please go "
+"to the <a href='./users.php'>Users</a> page, select the relevant user, click "
+"Edit and scroll to the bottom of the page and enable the 'Chat Agent' "
+"checkbox."
+msgstr ""
+"「スタッフを追加」のドロップダウンリストには、「投稿者」以上の権限のあるユー"
+"ザー名が表示されます。「投稿者」以上の権限がないユーザーをチャット担当スタッ"
+"フにするには、<a href='./users.php'>ユーザー一覧</a>のページで該当のユーザー"
+"のプロフィール編集画面を開き、一番下にある「チャット対応スタッフ」のチェック"
+"ボックスをチェックして保存します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:811
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3518
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr ""
+"なお、オンラインのスタッフがいない場合は、チャットはオフラインとして表示され"
+"ます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:815
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:802
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "ブロックしたビジター ( IP アドレス)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:816
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:803
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "ブロックしたいビジターの IP アドレスを 1 行に 1 つ入力します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:827
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:814
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"IP アドレスをブロックすると、その IP からのアクセスに対してチャットボックスが"
+"非表示となります。IP アドレスは 1 行に 1 つ記入します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:836
+msgid ""
+"are only available in the WP Live Chat Support Chat Experience Ratings add-on"
+msgstr "には、WP Live Chat Support Chat Experience Ratingsアドオンが必要です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:840
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1816
+msgid "Chat Encryption"
+msgstr "チャットの暗号化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1819
+msgid "Enable Encryption"
+msgstr "暗号化を有効にする"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1819
+msgid ""
+"All messages will be encrypted when being sent to and from the user and "
+"agent."
+msgstr "すべてのチャット・メッセージの送受信が暗号化されます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:851
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1829
+msgid ""
+"Once enabled, all messages sent will be encrypted. This cannot be undone."
+msgstr ""
+"有効化すると、すべてのメッセージが暗号化送信されます。なお、一度有効化したら"
+"無効にすることはできません。十分に注意してください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:857
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:822
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:5
+msgid "Add New"
+msgstr "新規作成"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:8
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4328
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4358
+msgid "WP Live Chat Support Triggers"
+msgstr "WPライブチャットサポート　トリガー機能"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:16
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4374
+msgid "Update now"
+msgstr "今すぐアップデート"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:68
+msgid "Trigger Name"
+msgstr "トリガー名"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:73
+msgid "Trigger Type"
+msgstr "トリガーの種類"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:77
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4364
+msgid "Page Trigger"
+msgstr "ページのトリガー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:78
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4365
+msgid "Time Trigger"
+msgstr "時刻のトリガー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:79
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4366
+msgid "Scroll Trigger"
+msgstr "スクロールのトリガー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:80
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4367
+msgid "Page Leave Trigger"
+msgstr "ページ遷移のトリガー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:81
+msgid ""
+"Note: When using page trigger with a the basic theme, no hovercard is shown "
+"by default. We suggest using the time trigger for this instead."
+msgstr ""
+"ヒント: ページのトリガーを設定しても、基本のテーマではホバーカードは表示され"
+"ません。この場合は、代わりに時刻のトリガーを適用することをお勧めします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:87
+msgid "Page ID"
+msgstr "ページ ID"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:88
+msgid "Note: Leave empty for 'all' pages"
+msgstr "ヒント: 全ページに適用するには、空白にします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:92
+msgid "Show After"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:93
+msgid "Seconds"
+msgstr "秒"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:97
+msgid "Show After Scrolled"
+msgstr "スクロール後"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:98
+msgid "(%) Percent of page height"
+msgstr "ページの高さに対する比率 (%)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:102
+msgid "Content Replacement"
+msgstr "置き換える内容"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:114
+msgid "Replace Content"
+msgstr "内容を置き換える"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:119
+msgid "Enable Trigger"
+msgstr "トリガーを有効化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:125
+msgid "Close"
+msgstr "閉じる"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:134
+msgid "Please review your submission"
+msgstr "記入内容を確認"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:275
+msgid "Trigger has been edited."
+msgstr "トリガーを編集しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:427
+msgid "Conflict with page"
+msgstr "競合しているページ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:429
+msgid "Trigger ID: "
+msgstr "トリガー ID: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:439
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1846
+msgid "ID"
+msgstr "ID"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:441
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2275
+msgid "Type"
+msgstr "タイプ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:442
+msgid "Page"
+msgstr "ページ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:443
+msgid "Content"
+msgstr "コンテンツ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:444
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2277
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3025
+msgid "Status"
+msgstr "状態"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:445
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1616
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2278
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3026
+msgid "Action"
+msgstr "操作"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:452
+msgid "Edit"
+msgstr "編集する"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:453
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:584
+msgid "Delete"
+msgstr "消去する"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:461
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3503
+msgid "All"
+msgstr "すべて"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:465
+msgid "Click to change trigger status"
+msgstr "クリックでトリガーの状態を変更"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:475
+msgid "No Triggers Found..."
+msgstr "トリガーが見つかりません..."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:579
+msgid "Are you sure you would like to delete trigger"
+msgstr "本当にトリガーを削除してよいですか?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/includes/wplc_data_triggers.php:585
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:496
+#, php-format
+msgid ""
+"WP Live Chat Support Pro <strong>requires WP Live Chat Support version 6+</"
+"strong> (basic version). Please <strong><a href=\"%1$s\">update the plugin</"
+"a></strong> in order for the plugin to continue working correctly."
+msgstr ""
+"WP ライブチャットサポート Pro 版<strong>を使用するには、WP ライブチャットサ"
+"ポート(無料版)のバージョン 6 以上</strong>が有効化されている必要があります。"
+"正しく動作させるために、<strong><a href=\"%1$s\">こちらのページ</a></strong>"
+"でプラグインを更新してください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:582
+msgid "WP Live Chat Support Pro"
+msgstr "WP ライブチャットサポート Pro 版"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:706
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:717
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3196
+msgid "Quick Responses"
+msgstr "クイック定型文"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:707
+msgid "Quick Response"
+msgstr "クイック定型文"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:708
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:711
+msgid "New Quick Response"
+msgstr "クイック定型文の新規作成"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:709
+msgid "Add New Quick Response"
+msgstr "クイック定型文の新規作成"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:710
+msgid "Edit Quick Response"
+msgstr "クイック定型文を編集"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:712
+msgid "All Quick Responses"
+msgstr "すべてのクイック定型文"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:713
+msgid "View Quick Responses"
+msgstr "クイック定型文を表示"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:714
+msgid "Search Quick Responses"
+msgstr "クイック定型文を検索"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:715
+msgid "No Quick Responses found"
+msgstr "クイック定型文はありません"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:716
+msgid "No Quick Responses found in the Trash"
+msgstr "ゴミ箱に入れたクイック定型文は見つかりませんでした。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:721
+msgid "Quick Responses for WP Live Chat Support Pro"
+msgstr "WPライブチャットサポートPro版用のクイック定型文"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:787
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:791
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2512
+msgid "Assign Quick Response"
+msgstr "クイック定型文を選択"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:800
+msgid "What is this?"
+msgstr "どんな意味?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:837
+#, php-format
+msgid "Incoming chat from %s (%s) on %s"
+msgstr "%s (%s) が %s ページからチャットを要求"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:843
+#, php-format
+msgid "%s (%s) wants to chat with you. <br /><br />Log in: %s"
+msgstr ""
+"%s (%s) がチャットを要求しています。<br /><br />ログインしてください: %s"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:891
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:239
+msgid "Display typing indicator"
+msgstr "タイピング表示を有効化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:891
+msgid ""
+"Display the \"typing...\" animation in the chat window as soon as an agent "
+"or visitor is typing."
+msgstr ""
+"スタッフもしくはビジターが入力を始めると、相手側に「入力中...」のアニメーショ"
+"ンを表示します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:898
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of this "
+"feature."
+msgstr ""
+"この機能を使うには、<a href='%s'>WP ライブチャットサポート(無料版)</a>をアッ"
+"プデートしてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:906
+msgid ""
+"For non-cloud server users, please note that this will increase the amount "
+"of server resources required."
+msgstr ""
+"非クラウド・サーバーをご利用の場合、この機能はサーバーのリソースを大幅に消費"
+"する点にご注意ください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:923
+msgid "Use WordPress name instead"
+msgstr "WordPress のユーザー名を使用"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:926
+msgid "Note: 'Name' field will be ignored"
+msgstr "ヒント: 「名前」フィールドは無視されます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:944
+msgid "Incoming chat ring tone"
+msgstr "チャット要求のアラート音"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:948
+msgid "Default"
+msgstr "標準の投稿タイプ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:997
+msgid "Recomended Size 60px x 60px"
+msgstr "推奨サイズ ＝60 x 60ピクセル(px)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1039
+msgid "User Experience"
+msgstr "ユーザー評価"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1048
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1078
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of these "
+"features."
+msgstr ""
+"これらの機能を使うには、<a href='%s'>WP ライブチャットサポート(無料版)</a>を"
+"アップデートしてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1055
+msgid "Enable Text Editor"
+msgstr "テキストエディターを有効化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1055
+msgid ""
+"Adds advanced text editor features, such as links, text styling, and more!"
+msgstr "リンクやスタイルなど、テキストエディターの機能を拡張します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1059
+msgid "Enable File Sharing"
+msgstr "ファイル共有を有効化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1059
+msgid "Adds file sharing to your chat box!"
+msgstr "チャットボックスにファイル共有機能を追加します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1063
+msgid "Enable Experience Ratings"
+msgstr "評価を有効化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1063
+msgid "Allows users to rate the chat experience with an agent."
+msgstr "ユーザーがチャットスタッフの対応を評価できるようになります。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1069
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:362
+msgid "Social"
+msgstr "ソーシャル"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1086
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:367
+msgid "Facebook URL"
+msgstr "Facebook ページの URL"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1086
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:367
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr ""
+"Facebook ページを公開する場合は URL を記入します。表示しない場合は空白にしま"
+"す。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1087
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:369
+msgid "Facebook URL..."
+msgstr "Facebook の URL..."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1090
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:380
+msgid "Twitter URL"
+msgstr "Twitter の URL"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1090
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:380
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr ""
+"Twitter のタイムラインを公開する場合は URL を記入します。表示しない場合は空白"
+"にします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1091
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:382
+msgid "Twitter URL..."
+msgstr "Twitter の URL..."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1114
+msgid "Admin"
+msgstr "管理人"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1607
+msgid "You are currently accepting chats"
+msgstr "チャットはオンラインです"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1608
+msgid "You are not accepting chats"
+msgstr "チャットはオフラインです"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1622
+msgid ""
+"You have set your status to offline. To view visitors and accept chats "
+"please set your status to online using the switch above."
+msgstr ""
+"状態を「オフライン」に設定しました。ビジターを閲覧したりチャットを受けるに"
+"は、上のスイッチを「オンライン」にしてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1828
+msgid ""
+"Please note: Chat messages will only be encrypted and decreypted if you have "
+"inserted your WP Live Chat Support Pro API Key on the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgstr ""
+"注意: チャットの暗号化を行うには、 <a href=\"admin.php?page=wplivechat-menu-"
+"api-keys-page\">こちらのページ</a>に WPライブチャットサポート Pro 版の API "
+"キーが入力されている必要があります。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2114
+msgid "Exclude chat from 'Home' page:"
+msgstr "トップページにはチャットを非表示: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2114
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your home "
+"page."
+msgstr ""
+"ここをチェックしない場合、トップページにもチャットボックスを表示します。トッ"
+"プページに表示しない場合はチェックします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2122
+msgid "Exclude chat from 'Archive' pages:"
+msgstr "アーカイブページにはチャットを非表示: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2122
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your archive "
+"pages."
+msgstr ""
+"ここをチェックしない場合、アーカイブのページにもチャットボックスを表示しま"
+"す。アーカイブのページに表示しない場合はチェックします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2453
+msgid "Attempting to open the chat window... Please be patient."
+msgstr "チャットウィンドウを開いています….."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2511
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+"あなたはチャット対応スタッフではありません。ビジターとチャットするにはチャッ"
+"ト対応スタッフ権限が必要です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:2772
+msgid "This chat has already been answered by another agent."
+msgstr "このチャットは他の担当者が対応しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3079
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2177
+msgid "Agent(s) online"
+msgstr "オンラインのスタッフ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3197
+msgid "Reporting"
+msgstr "報告"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3198
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:702
+msgid "Triggers"
+msgstr "トリガー機能"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3674
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3682
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4248
+msgid "Experience Rating"
+msgstr "ユーザー評価"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3762
+msgid "User Experience Ratings"
+msgstr "ユーザー評価"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3769
+msgid "Agent Statistics"
+msgstr "スタッフごとの統計"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3815
+msgid "Satisfaction Rating"
+msgstr "満足度の統計"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3816
+msgid "Rating Count"
+msgstr "評価数"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3816
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3830
+msgid "Good"
+msgstr "良い"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3816
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3830
+msgid "Bad"
+msgstr "悪い"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3824
+msgid "No Ratings for this agent"
+msgstr "このスタッフの評価はありません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3865
+msgid "WP Live Chat Support Reporting"
+msgstr "WPライブチャットサポート報告書"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3868
+msgid "Overview"
+msgstr "概要"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3869
+msgid "Popular Pages"
+msgstr "人気のページ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3887
+msgid "Total Agents"
+msgstr "スタッフの合計"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3887
+msgid "Total number of agents that used the live chat"
+msgstr "チャットを利用したスタッフの人数"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3888
+msgid "Total Chats"
+msgstr "チャットの合計"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3888
+msgid "Total number of chats received"
+msgstr "受信チャットの数"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3889
+msgid "Total URLs"
+msgstr "URL の合計"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3889
+msgid "Total number of URLs a chat was initiated on"
+msgstr "チャットを開始した URL の数"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3890
+msgid "Chats per day"
+msgstr "チャットの日計"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3891
+msgid "Popular pages a chat was initiated on"
+msgstr "よくチャット要求されるページ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3967
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1615
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3024
+msgid "URL"
+msgstr "URL"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3968
+msgid "Count"
+msgstr "カウント"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3988
+msgid "Disable initiate chat feature:"
+msgstr "チャット機能を無効化: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:3988
+msgid ""
+"This will substantially improve performance. If you are experiencing "
+"performance issues on your site, you should disable the initiate chat "
+"feature and only enable it when you need it."
+msgstr ""
+"チャットを無効化することで、ウェブサイトのパフォーマンスが大幅に改善します。"
+"もしパフォーマンスに問題がある場合は、通常時はこのオプションをオン(チャット無"
+"効化)にし、必要な時だけオフ(チャット有効化)にしてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:445
+msgid "Only chat agents can accept chats"
+msgstr "チャット担当スタッフのみチャットを受信可"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:647
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:540
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1545
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2650
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4218
+msgid "Welcome. How may I help you?"
+msgstr "ご質問をどうぞ。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:996
+msgid "complete"
+msgstr "完了"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:999
+msgid "pending"
+msgstr "保留"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1002
+msgid "active"
+msgstr "アクティブ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1005
+msgid "deleted"
+msgstr "削除済み"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1008
+msgid "browsing"
+msgstr "閲覧"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1011
+msgid "requesting chat"
+msgstr "チャットをリクエスト中"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1014
+msgid "Chat Ended - User still browsing"
+msgstr "チャット終了後、まだサイトを閲覧中"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1017
+msgid "User is browsing but doesn't want to chat"
+msgstr "サイト閲覧中だがチャット要求なし"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1352
+msgid "Get Pro Add-on to accept more chats"
+msgstr "Pro 版にアップグレードして、より多くのチャットを受け付けましょう!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1590
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2986
+msgid "Error: Could not delete chat"
+msgstr "エラー: チャットを削除できませんでした。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1594
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2990
+msgid "Chat Deleted"
+msgstr "チャットを削除しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1601
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2997
+msgid "Are you sure you would like to delete this chat?"
+msgstr "本当にチャットを削除してよいですか?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1643
+msgid "You have not missed any chat requests."
+msgstr "取り逃しチャットはありません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1836
+msgid "Open chat window via"
+msgstr "チャット・ウィンドウ起動のタイミング"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1840
+msgid "Click"
+msgstr "クリック"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1841
+msgid "Hover"
+msgstr "ホバー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1843
+msgid "element with"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/functions.php:1845
+msgid "Class"
+msgstr "クラス"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:151
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:348
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:532
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1607
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2636
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4210
+msgid "Questions?"
+msgstr "ライブチャット"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:151
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:348
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:533
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1608
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2637
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4211
+msgid "Chat with us"
+msgstr "(オンライン)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:158
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:355
+msgid "Start Live Chat"
+msgstr "チャットを開始"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:210
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:410
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:535
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2639
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4213
+msgid "Start Chat"
+msgstr "チャットを始める"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:213
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:413
+msgid "Connecting you to a sales person. Please be patient."
+msgstr "スタッフを呼んでいます….."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:216
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:416
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:539
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1741
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1792
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2643
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4217
+msgid "Reactivating your previous chat..."
+msgstr "前回のチャットを復元中….."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:221
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:421
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:541
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2511
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2649
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4219
+msgid "Press ENTER to send your message"
+msgstr "Enter キーを押すと、メッセージを送信します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:225
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/deprecated.php:425
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1581
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2526
+msgid "Send"
+msgstr "送信"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:7
+msgid "WP Live Chat Support Feedback"
+msgstr "開発チームへのフィードバック"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:12
+msgid "Your Name"
+msgstr "お名前"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:20
+msgid "Your Email"
+msgstr "メールアドレス"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:28
+msgid "Your Website"
+msgstr "ウェブサイト"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:36
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:731
+msgid "Feedback"
+msgstr "フィードバック"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:47
+msgid "Send Feedback"
+msgstr "フィードバックを送信"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:73
+msgid "Agents"
+msgstr "スタッフ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:175
+msgid "Include chat window on the following pages"
+msgstr "チャットウィンドウを表示するページ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:181
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:196
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:245
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:262
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:278
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:294
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:310
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:327
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:372
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:385
+msgid "available in the"
+msgstr "このオプションは、"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:182
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:197
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:246
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:263
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:279
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:295
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:311
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:328
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:373
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:386
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3103
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3895
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3963
+msgid "Pro Add-on"
+msgstr "Pro 版専用アドオン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:183
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:198
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:247
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:264
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:280
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:296
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:312
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:329
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:374
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:387
+msgid "only"
+msgstr "です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:190
+msgid "Exclude chat window on the following pages"
+msgstr "チャットウィンドウを表示しないページ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:239
+msgid "Display a typing animation as soon as someone starts typing."
+msgstr ""
+"スタッフもしくはビジターが入力を始めると、相手側に「入力中...」のアニメーショ"
+"ンを表示します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:324
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr "チャット要求をすぐにメールで知らせる(オンライン時のみ有効)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:551
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:552
+msgid "Classic"
+msgstr "クラシック"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:555
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:556
+msgid "Modern"
+msgstr "モダン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:572
+msgid "Colour Scheme"
+msgstr "カラースキーム"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:627
+msgid "Choose"
+msgstr "または、"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:628
+msgid "Your"
+msgstr "好きなカラーを"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:629
+msgid "Colors"
+msgstr "以下で設定"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:630
+msgid "Below"
+msgstr "できます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:652
+msgid "Palette Color 1"
+msgstr "1 段め"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:658
+msgid "Palette Color 2"
+msgstr "2 段め"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:664
+msgid "Palette Color 3"
+msgstr "3 段め"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:670
+msgid "Palette Color 4"
+msgstr "4 段め"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:8
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:21
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:290
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:697
+msgid "Surveys"
+msgstr "アンケート機能"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:24
+msgid "Enable Surveys"
+msgstr "アンケートを有効化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:24
+msgid ""
+"Enable surveys within your live chat box, either before or after a live chat "
+"session."
+msgstr ""
+"チャットボックス内アンケートを有効化します。チャットセッションの前でも後でも"
+"実施可能です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:33
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+"選択できるアンケートがありません。<a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">こちらのページ</a>でアンケートを作成後、このページをリロー"
+"ド (再読込) してください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:40
+msgid "Select a survey"
+msgstr "アンケートを選択: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:66
+msgid "Display survey"
+msgstr "表示するタイミング: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:69
+msgid "Before chat"
+msgstr "チャット開始前"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:70
+msgid "After chat"
+msgstr "チャット終了後"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:75
+msgid "Chat button text"
+msgstr "チャットボタンに表示するテキスト: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:81
+msgid "Change title of chat box when chat ended to"
+msgstr "チャット終了時に表示するチャットボックスのタイトル: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:246
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:536
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2640
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4214
+msgid "Or chat to an agent now"
+msgstr "チャットを始める"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:251
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1385
+msgid "Leave a message"
+msgstr "メッセージを送信"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:285
+msgid "WP Live Chat Surveys with Nimble Squirrel"
+msgstr "WP ライブチャット・アンケート Powerd by Nimble Squirrel"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:291
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+"回答を閲覧するには、下のボタンをクリックして Nimble Squirrel のアカウントへロ"
+"グインしてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:294
+msgid ""
+"Need help? <a href='https://wp-livechat.com/contact-us/' "
+"target='_BLANK'>Contact us</a> and we'll get back to you as soon as possible!"
+msgstr ""
+"ご不明な点があれば、お気軽に<a href='https://wp-livechat.com/contact-us/' "
+"target='_BLANK'>お問い合わせ</a>ください。できるだけ早くお返事さしあげます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:304
+#, php-format
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (It's free.)"
+msgstr ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel\">NimbleSquirrel</a> "
+"(無料) のアカウントを取得します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:307
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a survey</"
+"a>."
+msgstr ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">NimbleSquirrelにロ"
+"グイン</a>して、アンケートを作成します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:314
+msgid "Add a Survey to your live chat box"
+msgstr "ライブチャットにアンケート機能を追加"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:315
+msgid "Three simple steps:"
+msgstr "簡単 3 ステップで、チャット時にアンケートを実施できます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/surveys.php:319
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings'>settings page</a>."
+msgstr ""
+"<a href='admin.php?page=wplivechat-menu-settings'>設定ページ</a>でチャット"
+"ボックスのアンケート機能を有効化します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/update_control.class.php:122
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"APIのリクエスト中に不測のHTTPエラーが発生しました。</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">やり直してください。</"
+"a>"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/update_control.class.php:127
+msgid "An unknown error occurred"
+msgstr "不測のエラーが発生しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:4
+msgid "Welcome to "
+msgstr "ようこそ、"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:6
+msgid "Version 6"
+msgstr "バージョン 6 へ!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:8
+msgid "The most popular live chat plugin!"
+msgstr "もっとも人気のあるライブチャット・プラグインです!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:11
+msgid "How did you find us?"
+msgstr "当サイトをどのようにして知りましたか?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:16
+msgid "WordPress.org plugin repository "
+msgstr "WordPress.org プラグインリポジトリ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:19
+msgid "Search Term"
+msgstr "検索キーワード"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:23
+msgid "Google or other search Engine"
+msgstr "Google などの検索エンジン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:29
+msgid "Friend recommendation"
+msgstr "友人知人のおすすめ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:35
+msgid "Other"
+msgstr "その他"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:39
+msgid "Please Explain"
+msgstr "具体的に"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:48
+msgid "Submit"
+msgstr "送信"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:50
+msgid "Skip"
+msgstr "スキップ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:527
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1624
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2644
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4205
+msgid "Chat offline. Leave a message"
+msgstr "チャットはオフラインです。メッセージを送信できます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:528
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1469
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2645
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4206
+msgid "Hello. Please input your details so that I may help you."
+msgstr "ご不明な点があれば、お気軽にお尋ねください!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:529
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:916
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2646
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4207
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+"ただいまオフラインです。メッセージを送信された場合、後ほど回答いたします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:530
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:917
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2647
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4208
+msgid "Sending message..."
+msgstr "メッセージ送信中….."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:531
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:918
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2648
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4209
+msgid "Thank you for your message. We will be in contact soon."
+msgstr "メッセージありがとうございます。後ほどご連絡します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:534
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2638
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4212
+msgid "Start live chat"
+msgstr "ライブチャットを開始"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:537
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2641
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4215
+msgid "Chat ended"
+msgstr "チャット終了"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:538
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1516
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1541
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2642
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4216
+msgid "Connecting. Please be patient..."
+msgstr "接続中….."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:575
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2616
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "「チャットを始める」をクリックして、チャット担当者を呼び出します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:695
+msgid "Live Chat"
+msgstr "WPライブチャットサポート"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:696
+msgid "Settings"
+msgstr "設定"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:708
+msgid "History"
+msgstr "履歴"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:709
+msgid "Missed Chats"
+msgstr "取り逃しチャット"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:732
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3606
+msgid "Support"
+msgstr "サポート"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:733
+msgid "Extensions"
+msgstr "機能拡張"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:743
+msgid "API Keys"
+msgstr "API キー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:749
+msgid "Premium Extension API Keys"
+msgstr "プレミアム版拡張機能の API キー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:750
+msgid ""
+"To find and manage your premium API keys, please visit your <a "
+"target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+"page."
+msgstr ""
+"プレミアム版拡張機能の API キーを入手／管理するには、<a target='_BLANK' "
+"href='https://wp-livechat.com/my-account/'>My アカウント</a>ページをご覧くだ"
+"さい。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1360
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1379
+msgid "Start chat"
+msgstr "チャットを始める"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1453
+msgid "Send message"
+msgstr "メッセージを送信"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2035
+msgid "New chat received"
+msgstr "新しいチャット要求"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2037
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr "新しいチャット要求が来ています。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2100
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>. Please"
+msgstr ""
+"現在お使いの <strong>WP ライブチャットサポート Pro 版</strong>は、旧バージョ"
+"ンです。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2100
+msgid "update to at least version"
+msgstr "次のバージョンへアップデートしてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2100
+msgid "to ensure all functionality is in working order"
+msgstr "すべての機能を有効にするには、少なくとも"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2101
+msgid ""
+"You're live chat box on your website has been temporarily disabled until the "
+"Pro plugin has been updated. This is to ensure a smooth and hassle-free user "
+"experience for both yourself and your visitors."
+msgstr ""
+"このサイトのチャットボックスは、Pro 版プラグインが更新されるまで一時的に無効"
+"化しています。これにより、管理側、ビジター側ともに、不具合のストレスなくス"
+"ムーズに利用できます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2102
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2122
+msgid ""
+"You can update your plugin <a href='./update-core.php'>here</a>, <a href='./"
+"plugins.php'>here</a> or <a href='https://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>here</a>."
+msgstr ""
+"更新プログラムは、<a href='./update-core.php'>こちら (コアプログラム)</a> か "
+"<a href='./plugins.php'>こちら (プラグイン)</a>、もしくは<a href='https://wp-"
+"livechat.com/get-updated-version/' target='_BLANK'>こちら ( WP ライブチャット"
+"サポート更新ページ)</a> で入手できます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2103
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2123
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr "プラグインの更新が困難な場合の連絡先: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2115
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>."
+msgstr "現在お使いのWPライブチャットサポートPro版は旧バージョンです。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2117
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr "WP ライブチャットサポート Pro 版の最新版へアップデートして、"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2118
+msgid "Version 5.0.1"
+msgstr "バージョン 5.0.1"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2119
+msgid "to ensure everything is working correctly."
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2151
+msgid "Congratulations"
+msgstr "インストールが完了しました!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2152
+msgid "You are now accepting live chat requests on your site."
+msgstr "チャットを受け付ける準備ができました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2153
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "インストール直後は、チャットボックスは自動的に有効化されています。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2154
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr "ビジターがチャット要求をすると、チャット通知が表示されます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2155
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+"チャットボックスの各種設定は<a href='?page=wplivechat-menu-settings' "
+"target='_BLANK'>こちらで行います。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2156
+msgid "Experiencing issues?"
+msgstr "問題が発生したときは、"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2156
+msgid "Visit our troubleshooting section."
+msgstr "トラブルシューティングを参考にしてください。(英語のみ)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2158
+msgid "Hide"
+msgstr "非表示"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2193
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3626
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3627
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "WP ライブチャットサポートの Pro 版では、ボタンのクリックだけで"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2194
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3626
+msgid "see who's online and initiate chats"
+msgstr "オンラインのビジターの状況を見たり、チャットを開始"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2195
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3626
+msgid "initiate chats"
+msgstr "チャットを開始"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2196
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3626
+msgid "with your online visitors with the click of a button."
+msgstr "できます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2197
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2199
+msgid "Buy the Pro add-on now."
+msgstr "今すぐ Pro 版へアップグレードしましょう。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2250
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr ""
+"!!!重要!!! : リアルタイムでチャット通知を受け取るには、このウィンドウを開いて"
+"おきます。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2261
+msgid "Visitors online"
+msgstr "オンラインのビジター"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2273
+msgid "Visitor"
+msgstr "ビジター"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2274
+msgid "Time"
+msgstr "時刻"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2276
+msgid "Data"
+msgstr "データ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2314
+msgid "Chat Dashboard"
+msgstr "チャットのダッシュボード"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2317
+msgid "Oh no!"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2320
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr ""
+"<strong>スタッフでないため、</strong>このページにアクセスする権限がありませ"
+"ん。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2432
+msgid "Previous"
+msgstr "過去のチャット"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2434
+msgid "Active"
+msgstr "対応中のチャット"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2443
+msgid "Chat with"
+msgstr "　対象者: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2446
+msgid "End chat"
+msgstr "チャット終了"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2492
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3441
+msgid "Add-ons"
+msgstr "アドオン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2494
+msgid "Get more add-ons"
+msgstr "アドオンをさらに入手"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2512
+msgid "Add Quick Responses to your Live Chat"
+msgstr "ライブチャットにクイック定型文機能を追加"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2512
+msgid "Pro version only"
+msgstr "Pro 版のみ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2520
+msgid "type here..."
+msgstr "ここに入力….."
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2598
+msgid "User has opened the chat window"
+msgstr "ユーザーがチャットウィンドウを開きました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2599
+msgid "User has minimized the chat window"
+msgstr "ユーザーがチャットウィンドウを最小化しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2600
+msgid "User has maximized the chat window"
+msgstr "ユーザーがチャットウィンドウを最大化しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:2601
+msgid "The chat has been ended"
+msgstr "チャットは終了しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3015
+msgid "Delete History"
+msgstr "履歴を削除"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3032
+msgid "No chats available at the moment"
+msgstr "現在、チャットはありません"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3043
+msgid "View Chat History"
+msgstr "チャット履歴を見る"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3043
+msgid "Download Chat History"
+msgstr "チャット履歴をダウンロード"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3065
+msgid "WP Live Chat History"
+msgstr "WPライブチャット履歴"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3085
+msgid "WP Live Chat Missed Chats"
+msgstr "取り逃しチャット"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3100
+msgid ""
+"Please update to the latest version of WP Live Chat Support Pro to start "
+"recording any offline messages."
+msgstr ""
+"オフラインメッセージを記録するには、最新版の WP ライブチャットサポート Pro 版"
+"へアップデートしてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3103
+msgid "This option is only available in the "
+msgstr "この機能は"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3115
+msgid "WP Live Chat Offline Messages"
+msgstr "オフラインメッセージ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3136
+msgid "Actions"
+msgstr "操作"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3154
+msgid "Delete Message"
+msgstr "削除"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3248
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "「チャットを始める」をクリックでスタッフを呼び出します。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3344
+msgid "Your settings have been saved."
+msgstr "設定を保存しました。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3359
+msgid "Thank You for your feedback!"
+msgstr "ご意見ありがとうございます!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3363
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3376
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr "ご意見ありがとうございます。のちほどご連絡いたします。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3379
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr ""
+"フィードバック送信中に問題が発生しました。フィードバックにログインしてくださ"
+"い。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3413
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"WPLC: このサーバーでは set_time_limit() が有効化されていません。これにより、"
+"WP ライブチャットサポートの使用中に何らかの問題が発生する可能性があります。こ"
+"のファンクションを有効化するには、サーバー管理者へご連絡ください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3419
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"WPLC: このサーバーはセーフモードで運用されています。これにより、WP ライブ"
+"チャットサポートの使用中になんらかの問題が発生する可能性があります。セーフ"
+"モードを無効化するには、サーバー管理者へご連絡ください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3441
+msgid "Suggested Plugins"
+msgstr "おすすめのプラグイン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3452
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3453
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3454
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3459
+msgid "Sola Support Tickets"
+msgstr "Sola Support Tickets"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3457
+msgid ""
+"The easiest to use Help Desk & Support Ticket plugin. Create a support help "
+"desk quickly and easily with Sola Support Tickets."
+msgstr ""
+"Sola Support Tickets は、あなたのウェブサイトにヘルプデスクとサポート・チケッ"
+"トの機能を追加する WordPress プラグインです。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3459
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3470
+msgid "Get this Plugin"
+msgstr "プラグインを入手"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3463
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3464
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3465
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3470
+msgid "Nifty Newsletters"
+msgstr "Nifty Newsletters"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3468
+msgid ""
+"Create and send newsletters, automatic post notifications and autoresponders "
+"that are modern and beautiful with Nifty Newsletters."
+msgstr ""
+"Nifty Newsletters は、ニュースレターの作成と配信を可能にするプラグインです。"
+"自動送信や自動返信の機能も搭載。洗練されたデザインのニュースレターで、あなた"
+"のサイトをイメージアップしましょう!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3502
+msgid "Price:"
+msgstr "価格: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3504
+msgid "Free"
+msgstr " 無料"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3505
+msgid "Paid"
+msgstr " 有料"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3508
+msgid "For:"
+msgstr "対象: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3509
+msgid "Both"
+msgstr "すべて"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3510
+msgid "Free version"
+msgstr " 無料版"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3511
+msgid "Pro version"
+msgstr " Pro 版"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3547
+msgid "Already installed"
+msgstr "インストール済み"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3574
+msgid "WP Live Chat Support"
+msgstr "WPライブチャットサポート"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3577
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3579
+msgid ""
+"Getting started? Read through some of these articles to help you along your "
+"way."
+msgstr "初めての方は、まず、これらの記事をお読みください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3580
+msgid "Documentation:"
+msgstr "ドキュメンテーション: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3582
+msgid "Minimum System Requirements"
+msgstr "最小限のシステム構成"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3583
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr "ビジターとチャットするには管理画面にログインが必要ですか?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3584
+msgid "What are Quick Responses?"
+msgstr "クイック定型文とはなんですか?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3585
+msgid "Can I use this plugin on my multi-site?"
+msgstr "自分が運営する複数のサイトでプラグインを使用できますか?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3586
+msgid "How do I disable APC Object Cache?"
+msgstr "APC Object Cache を無効にする方法は?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3587
+msgid "Do you have a mobile app?"
+msgstr "モバイル用のアプリはありますか?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3588
+msgid "How do I check for JavaScript errors on my site?"
+msgstr "自サイトの JavaScript エラーはどうすればチェックできますか?"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3592
+msgid "Troubleshooting"
+msgstr "トラブルシューティング"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3594
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"WP ライブチャットサポートは非常に多機能なため、多くのテーマや他のプラグインと"
+"の共存により問題が生じる場合があります。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3595
+msgid "Common issues:"
+msgstr "よくある症状: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3597
+msgid "The chat box doesnt show up"
+msgstr "チャットボックスが表示されません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3598
+msgid "The chat window disappears when I logout or go offline"
+msgstr ""
+"ログアウトした時やインターネット接続がない時、チャットウィンドウが消えてしま"
+"います。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3599
+msgid "This chat has already been answered. Please close the chat window"
+msgstr "このチャットは応答済みです。チャットウィンドウを閉じてください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3600
+msgid "Messages only show when I refresh the chat window"
+msgstr "再読込しないとチャットのメッセージが表示されません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3601
+msgid "I'm not getting any notifications of a new chat"
+msgstr "新しいチャットの通知が送られてきません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3602
+msgid "The chat window never goes offline"
+msgstr "チャットウィンドウが消えません。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3608
+msgid "Still need help? Use one of these links below."
+msgstr "探している質問や答えが見つからない時は、以下のリンクもご参考に。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3610
+msgid "Support desk"
+msgstr "サポートデスク"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3611
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3626
+msgid "Initiate Chats"
+msgstr "チャットを開始する"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3626
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3627
+msgid "Buy the Pro add-on now (once off payment)."
+msgstr "Pro 版 (アドオン) は $19.95 の買い切り価格です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3627
+msgid "Multiple Chats"
+msgstr "複数同時チャット"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3627
+msgid "accept and handle multiple chats."
+msgstr "複数のチャットを受ける"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3628
+msgid "Add unlimited agents"
+msgstr "WP ライブチャットサポート Pro 版"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3628
+msgid " with the Pro add-on of WP Live Chat Support"
+msgstr "では、何人でも制限なくスタッフを追加できます!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3628
+msgid "(once off payment)."
+msgstr "(買い切り価格 $19.95)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3642
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"<a href=\"%1$s\" target=\"_blank\">WP ライブチャットサポート</a>のご利用あり"
+"がとうございます!　ぜひ、<a href=\"%2$s\" target=\"_blank\">WordPress.org</"
+"a> のサイトでこのプラグインを<a href=\"%2$s\" target=\"_blank\">評価してくだ"
+"さい</a>!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3647
+msgid "WP Live Chat Support is a product of"
+msgstr "WP ライブチャットサポート開発元: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3751
+msgid "Add as many agents as you need with the "
+msgstr "スタッフをもっと追加するには → "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3751
+msgid "Pro version."
+msgstr "Pro 版 (有料版)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3755
+#, php-format
+msgid "Change the default chat agent from <strong>%1$s</strong> to "
+msgstr "デフォルトのスタッフを <strong>%1$s</strong> から変更: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3854
+msgid "Verify"
+msgstr "確認"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3857
+msgid "Status: "
+msgstr "状態: "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3860
+msgid "Valid"
+msgstr "適正"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3861
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3865
+msgid "Manage this extension"
+msgstr "拡張機能を有効化"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3864
+msgid "Invalid"
+msgstr "不正"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3870
+msgid "Linked Domains"
+msgstr "リンクするドメイン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3904
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3972
+msgid ""
+"Get unlimited agents, initiate chats, advanced chat box control, encryption "
+"and more with the Pro add-on."
+msgstr ""
+"スタッフを無制限に追加、ワンクリックでチャット開始、チャットボックスの高度な"
+"カスタマイズ、SSL対応でセキュリティ対策も万端。多彩な機能を Pro 版(アドオン)"
+"で実現しましょう!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3906
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3928
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3949
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3974
+msgid "Get this extension"
+msgstr "この拡張機能を入手"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3917
+msgid "Mobile & Desktop App"
+msgstr "モバイル＆デスクトップ App"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3926
+msgid ""
+"Answer chats directly from your mobile phone or desktop with our mobile app "
+"and desktop client"
+msgstr ""
+"スマートフォンや、パソコンのデスクトップ・クライアントでダイレクトにチャット"
+"対応!"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3947
+msgid ""
+"Reduce the resources required by your server - use our cloud server to host "
+"your chats."
+msgstr ""
+"サーバーの空きリソースが不足しています。私たちが提供するクラウド・サーバーの"
+"利用をご検討ください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:3995
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4016
+msgid "Relevant Extensions"
+msgstr "関連する拡張機能"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4035
+msgid "Powered By WP Live Chat Support"
+msgstr "Powered By WP ライブチャットサポート"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4181
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+"API キーが不正なため、将来的なアップデートを利用できません。<a href=\"admin."
+"php?page=wplivechat-menu-api-keys-page\">こちらのページ</a>で有効なAPI キーを"
+"入力してください。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4267
+msgid "Advanced settings"
+msgstr "高度な設定"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4276
+msgid "Only change these settings if you are experiencing performance issues."
+msgstr ""
+"これらのオプションは、サイトのパフォーマンスに問題がある時だけ変更してくださ"
+"い。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4286
+msgid "What type of environment are you on?"
+msgstr "ご使用のサーバーの種類"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4290
+msgid "Shared hosting - low level plan"
+msgstr "共用レンタルサーバー (ライトプラン)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4291
+msgid "Shared hosting - normal plan"
+msgstr "共用レンタルサーバー (スタンダードプラン)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4292
+msgid "VPS"
+msgstr "VPS"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4293
+msgid "Dedicated server"
+msgstr "専用サーバー"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4299
+msgid "Long poll setup"
+msgstr "ロングポーリング (Long Polling) の設定 "
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4299
+msgid ""
+"Only change these if you are an experienced developer or if you have "
+"received these figures from the Code Cabin Support team."
+msgstr ""
+"あなたが熟練した技術者であるか、もしくは、WP ライブチャットサポート開発元: "
+"Code Cabin のサポートチームから指示されたとき以外は、この設定を変更しないでく"
+"ださい。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4307
+msgid "Iterations"
+msgstr "検証の反復回数 (Iteration)"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4311
+msgid "Sleep between iterations"
+msgstr "反復中のスリープ時間"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4314
+msgid "microseconds"
+msgstr "ミリ秒"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4359
+msgid ""
+"Create custom data triggers when users view a certain page, spend a certain "
+"amount of time on a page, scroll past a certain point or when their mouse "
+"leaves the window."
+msgstr ""
+"トリガーとは、いわば「きっかけ」です。ユーザーが特定のページを閲覧した時や、"
+"一定以上の時間そのページに滞在しているとか、ページ内の任意の地点より下にスク"
+"ロールした、など、チャットを呼びかけたい「きっかけ」を設定し、チャンスを逃さ"
+"ずサポートする機能です。"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4362
+msgid "Trigger Types"
+msgstr "トリガーの種類"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4377
+msgid "Get all this and more in the "
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4377
+msgid "Pro add-on"
+msgstr "Pro 版アドオン"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:4378
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"

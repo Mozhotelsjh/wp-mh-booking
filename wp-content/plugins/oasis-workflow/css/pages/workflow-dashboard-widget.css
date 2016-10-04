@@ -1,0 +1,36 @@
+#task_dashboard .dashboard-content {
+   padding: 0 12px 11px;
+   clear:both;
+   height:120px;
+   width:100%;
+   display: -webkit-flex;
+   display: flex;
+}
+#task_dashboard .dashboard-content span {
+   font-weight:bold;
+   font-size: 14px;
+}
+#task_dashboard .main-content {
+   width:50%;
+}
+#task_dashboard .main-content2 {
+   width: 50%;
+}
+#task_dashboard .dashboard-content li{
+   font-weight:bold;
+   font-size: 13px;
+   line-height: 1.4em;
+}
+
+.urgent-task-priority{
+   color: red;
+}
+.high-task-priority{
+   color:orange;
+}
+.normal-task-priority{
+   color: #41a62a;
+}
+.low-task-priority{
+   color: #72777c;
+}

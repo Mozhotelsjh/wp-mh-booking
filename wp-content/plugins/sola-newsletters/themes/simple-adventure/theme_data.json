@@ -1,0 +1,10 @@
+{
+    "theme_data": {
+        "title": "Simple Adventure",
+	"author": "Sola Newsletters",
+	"version": "1.0",
+	"date": "2015-03-19",
+	"author_url": "http://solaplugins.com",
+	"licence": "GPLv3"	
+    }
+}
